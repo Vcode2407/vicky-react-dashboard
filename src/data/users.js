@@ -1,0 +1,1 @@
+export const users = [{name: "Vijay Krishna", role: "Admin", trades: 25}, {name: "Krishna", role: "Trader", trades: 12}]; export const crypto = [{symbol: "BTC", price: 95000}, {symbol: "ETH", price: 4200}];
