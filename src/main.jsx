@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
   <HelmetProvider>
-    <BrowserRouter>
+    <BrowserRouter basename="/vicky-react-dashboard">
       <Suspense>
         <App />
       </Suspense>
