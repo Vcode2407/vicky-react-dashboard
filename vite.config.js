@@ -6,6 +6,7 @@ import checker from 'vite-plugin-checker';
 // ----------------------------------------------------------------------
 
 export default defineConfig({
+  base: '/vicky-react-dashboard/',
   plugins: [
     react(),
     checker({
